@@ -4,15 +4,15 @@
 
 <br/>
 
-<a href="https://github.com/Bl4ck206">
+<a href="https://github.com/khilalsekandarali">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=00DBDE&center=true&vCenter=true&width=620&lines=Building+bridges+between+physical+%26+digital+worlds;Linux+Infrastructure+%7C+Networking+%7C+Local+AI+%7C+IoT;Arch+%2F+CachyOS+user+btw" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Bl4ck206&label=Profile+Views&color=00DBDE&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Bl4ck206?label=Followers&style=flat-square&color=7B2FF7&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/stars/Bl4ck206?label=Stars&style=flat-square&color=FFD700&logo=star&logoColor=black" />
+<img src="https://komarev.com/ghpvc/?username=khilalsekandarali&label=Profile+Views&color=00DBDE&style=flat-square" />
+<img src="https://img.shields.io/github/followers/khilalsekandarali?label=Followers&style=flat-square&color=7B2FF7&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/khilalsekandarali?label=Stars&style=flat-square&color=FFD700&logo=star&logoColor=black" />
 <img src="https://img.shields.io/badge/Open%20to-Collaborate-22C55E?style=flat-square&logo=handshake&logoColor=white" />
 
 </div>
@@ -43,11 +43,11 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 </td>
 <td width="46%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bl4ck206&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF&text_color=ffffff&hide_title=true&ring_color=FC00FF" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=khilalsekandarali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF&text_color=ffffff&hide_title=true&ring_color=FC00FF" width="100%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Bl4ck206&theme=radical&hide_border=true&background=0D1117&ring=FC00FF&fire=00DBDE&currStreakLabel=00DBDE" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=khilalsekandarali&theme=radical&hide_border=true&background=0D1117&ring=FC00FF&fire=00DBDE&currStreakLabel=00DBDE" width="100%" />
 
 </td>
 </tr>
@@ -90,8 +90,8 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 **🛜 ALI-WRT**  
 Custom OpenWrt firmware untuk **ZTE** & **Orange Pi** / STB.
 
-<a href="https://github.com/Bl4ck206/ali-wrt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bl4ck206&repo=ali-wrt&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
+<a href="https://github.com/khilalsekandarali/ali-wrt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=ali-wrt&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
 </a>
 
 </td>
@@ -100,8 +100,8 @@ Custom OpenWrt firmware untuk **ZTE** & **Orange Pi** / STB.
 **📟 ESP32 Odometer**  
 Digital odometer & speedometer kustom untuk kendaraan.
 
-<a href="https://github.com/Bl4ck206/esp32-odometer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bl4ck206&repo=esp32-odometer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
+<a href="https://github.com/khilalsekandarali/esp32-odometer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=esp32-odometer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
 </a>
 
 </td>
@@ -112,8 +112,8 @@ Digital odometer & speedometer kustom untuk kendaraan.
 **🤖 AI Automation**  
 Workflow otomasi **n8n** & **Local AI Agents**.
 
-<a href="https://github.com/Bl4ck206/ai-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bl4ck206&repo=ai-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
+<a href="https://github.com/khilalsekandarali/ai-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=ai-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
 </a>
 
 </td>
@@ -122,8 +122,8 @@ Workflow otomasi **n8n** & **Local AI Agents**.
 **🔐 Tunnel Stack**  
 Konfigurasi & stack **Hysteria2**, **Trojan**, dan **WireGuard**.
 
-<a href="https://github.com/Bl4ck206/tunnel-stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bl4ck206&repo=tunnel-stack&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
+<a href="https://github.com/khilalsekandarali/tunnel-stack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=tunnel-stack&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=FC00FF" width="100%" />
 </a>
 
 </td>
@@ -140,9 +140,9 @@ Konfigurasi & stack **Hysteria2**, **Trojan**, dan **WireGuard**.
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bl4ck206&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bl4ck206&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bl4ck206&theme=radical&utcOffset=7" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khilalsekandarali&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khilalsekandarali&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khilalsekandarali&theme=radical&utcOffset=7" width="32%" />
 
 </div>
 
@@ -158,7 +158,7 @@ Konfigurasi & stack **Hysteria2**, **Trojan**, dan **WireGuard**.
 <a href="mailto:khilalali@email.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Bl4ck206">
+<a href="https://github.com/khilalsekandarali">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://t.me/khilalali">
