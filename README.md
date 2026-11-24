@@ -1,4 +1,3 @@
-cat <<'EOF' > ~/khilalsekandarali/README.md
 <div align="center">
 
 <img src="./assets/anime-lineart-dark.svg" alt="Khilal Sekandar Ali" width="100%" />
