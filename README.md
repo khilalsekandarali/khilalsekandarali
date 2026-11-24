@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/anime-lineart-dark.svg" alt="Khilal Sekandar Ali" width="100%" />
+# Khilal Sekandar Ali
 
-<br/><br/>
+**Linux SysAdmin · Network Engineer · AI & IoT Enthusiast**
 
 <img src="https://komarev.com/ghpvc/?username=khilalsekandarali&label=Profile+Views&color=161B22&style=flat-square" />
 <img src="https://img.shields.io/github/followers/khilalsekandarali?label=Followers&style=flat-square&color=161B22&logo=github&logoColor=white" />
@@ -18,20 +18,20 @@
 <tr>
 <td width="54%" valign="top">
 
-Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **infrastruktur Linux**, **jaringan komputer**, **IoT**, dan **otomatisasi AI lokal**.
+Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **infrastruktur Linux**, **jaringan komputer**, **IoT**, dan **otomatisasi AI lokal**[cite: 9].
 
 <br/>
 
 | | | |
 | :--- | :--- | :--- |
-| 🎓 | **Pendidikan** | Teknik Informatika · Universitas Pamulang |
-| 🐧 | **Fokus** | Linux SysAdmin, Network & Embedded/IoT |
-| 🤖 | **AI & Workflow** | Ollama · n8n · Local AI Agents |
-| 🔧 | **Hardware & OS** | ESP32 · OpenWrt · Arch / CachyOS |
+| 🎓 | **Pendidikan** | Teknik Informatika · Universitas Pamulang[cite: 9] |
+| 🐧 | **Fokus** | Linux SysAdmin, Network & Embedded/IoT[cite: 9] |
+| 🤖 | **AI & Workflow** | Ollama · n8n · Local AI Agents[cite: 9] |
+| 🔧 | **Hardware & OS** | ESP32 · OpenWrt · Arch / CachyOS[cite: 9] |
 
 <br/>
 
-> *"Membangun sistem yang menghubungkan dunia fisik dan digital."*
+> *"Membangun sistem yang menghubungkan dunia fisik dan digital."*[cite: 9]
 
 </td>
 <td width="46%" align="center" valign="middle">
@@ -74,15 +74,15 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/khilalsekandarali/NAMA_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_1&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
+<a href="https://github.com/khilalsekandarali/ALI-WRT_Repository">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=ALI-WRT_Repository&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/khilalsekandarali/NAMA_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_2&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
+<a href="https://github.com/khilalsekandarali/ULO-Builder_DBA_Remake_Khilal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=ULO-Builder_DBA_Remake_Khilal&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
@@ -90,15 +90,15 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/khilalsekandarali/NAMA_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_3&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
+<a href="https://github.com/khilalsekandarali/Zpanel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=Zpanel&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/khilalsekandarali/NAMA_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_4&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
+<a href="https://github.com/khilalsekandarali/bunga-buat-bella">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=bunga-buat-bella&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
@@ -136,5 +136,13 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 <a href="https://instagram.com/khilalali">
   <img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=white" />
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>⚡ <i>Keep building, keep learning</i> · Arch / CachyOS 🐧 · Khilal Sekandar Ali</sub>
 
 </div>
