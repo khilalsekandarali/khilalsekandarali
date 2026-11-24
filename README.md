@@ -1,13 +1,13 @@
+cat <<'EOF' > ~/khilalsekandarali/README.md
 <div align="center">
 
-<img src="./assets/anime-lineart-dark.svg" alt="Khilal Sekandar Ali Banner" width="100%" />
+<img src="./assets/anime-lineart-dark.svg" alt="Khilal Sekandar Ali" width="100%" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=khilalsekandarali&label=Profile+Views&color=111827&style=flat-square" />
-<img src="https://img.shields.io/github/followers/khilalsekandarali?label=Followers&style=flat-square&color=1F2937&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/stars/khilalsekandarali?label=Stars&style=flat-square&color=1F2937&logo=star&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-111827?style=flat-square&logo=handshake&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=khilalsekandarali&label=Profile+Views&color=161B22&style=flat-square" />
+<img src="https://img.shields.io/github/followers/khilalsekandarali?label=Followers&style=flat-square&color=161B22&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/khilalsekandarali?label=Stars&style=flat-square&color=161B22&logo=star&logoColor=white" />
 
 </div>
 
@@ -37,11 +37,11 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 </td>
 <td width="46%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khilalsekandarali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E5E7EB&ring_color=374151" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=khilalsekandarali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3&ring_color=30363D" width="100%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=khilalsekandarali&hide_border=true&background=0D1117&ring=374151&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=khilalsekandarali&hide_border=true&background=0D1117&ring=30363D&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" width="100%" />
 
 </td>
 </tr>
@@ -53,23 +53,17 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 
 <div align="center">
 
-**Sistem, Jaringan & DevOps**  
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,docker,bash,vim,git,nginx&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,docker,bash,vim,git,nginx,python,arduino,raspberrypi,github&theme=dark&perline=6" />
 
 <br/><br/>
 
-**Pemrograman, IoT & Produktivitas**  
-<img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,github,obsidian&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OpenWrt-111827?style=flat-square&logo=openwrt&logoColor=white" />
-<img src="https://img.shields.io/badge/WireGuard-111827?style=flat-square&logo=wireguard&logoColor=white" />
-<img src="https://img.shields.io/badge/Hysteria2-111827?style=flat-square&logo=v2ray&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Home%20Assistant-111827?style=flat-square&logo=homeassistant&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-111827?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenWrt-161B22?style=flat-square&logo=openwrt&logoColor=white" />
+<img src="https://img.shields.io/badge/WireGuard-161B22?style=flat-square&logo=wireguard&logoColor=white" />
+<img src="https://img.shields.io/badge/Hysteria2-161B22?style=flat-square&logo=v2ray&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Home%20Assistant-161B22?style=flat-square&logo=homeassistant&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-161B22?style=flat-square&logo=espressif&logoColor=white" />
 
 </div>
 
@@ -81,21 +75,15 @@ Mahasiswa **Teknik Informatika** di Universitas Pamulang yang berfokus pada **in
 <tr>
 <td width="50%" valign="top">
 
-**🛜 ALI-WRT**  
-Custom OpenWrt firmware untuk **ZTE** & **Orange Pi** / STB.
-
-<a href="https://github.com/khilalsekandarali/ali-wrt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=ali-wrt&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E5E7EB" width="100%" />
+<a href="https://github.com/khilalsekandarali/NAMA_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_1&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-**📟 ESP32 Odometer**  
-Digital odometer & speedometer kustom untuk kendaraan.
-
-<a href="https://github.com/khilalsekandarali/esp32-odometer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=esp32-odometer&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E5E7EB" width="100%" />
+<a href="https://github.com/khilalsekandarali/NAMA_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_2&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
@@ -103,21 +91,15 @@ Digital odometer & speedometer kustom untuk kendaraan.
 <tr>
 <td width="50%" valign="top">
 
-**🤖 AI Automation**  
-Workflow otomasi **n8n** & **Local AI Agents**.
-
-<a href="https://github.com/khilalsekandarali/ai-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=ai-automation&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E5E7EB" width="100%" />
+<a href="https://github.com/khilalsekandarali/NAMA_REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_3&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 Tunnel Stack**  
-Konfigurasi & stack **Hysteria2**, **Trojan**, dan **WireGuard**.
-
-<a href="https://github.com/khilalsekandarali/tunnel-stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=tunnel-stack&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E5E7EB" width="100%" />
+<a href="https://github.com/khilalsekandarali/NAMA_REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khilalsekandarali&repo=NAMA_REPO_4&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=E6EDF3" width="100%" />
 </a>
 
 </td>
@@ -132,12 +114,6 @@ Konfigurasi & stack **Hysteria2**, **Trojan**, dan **WireGuard**.
 
 <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khilalsekandarali&theme=transparent" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khilalsekandarali&theme=transparent" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khilalsekandarali&theme=transparent&utcOffset=7" width="32%" />
-
 </div>
 
 ---
@@ -147,27 +123,19 @@ Konfigurasi & stack **Hysteria2**, **Trojan**, dan **WireGuard**.
 <div align="center">
 
 <a href="https://linkedin.com/in/khilalali">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:khilalali@email.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/khilalsekandarali">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://t.me/khilalali">
-  <img src="https://img.shields.io/badge/Telegram-111827?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-161B22?style=flat-square&logo=telegram&logoColor=white" />
 </a>
 <a href="https://instagram.com/khilalali">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=white" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>⚡ <i>Keep building, keep learning</i> · Arch / CachyOS 🐧 · Khilal Sekandar Ali</sub>
 
 </div>
