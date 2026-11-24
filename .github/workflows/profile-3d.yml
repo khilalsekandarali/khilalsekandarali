@@ -21,4 +21,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git diff --staged --quiet || git commit -m "Update 3D contribution graph"
-          git push
+          git pushS
